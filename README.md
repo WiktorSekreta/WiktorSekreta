@@ -150,7 +150,7 @@ Główne funkcje obejmują zarządzanie terminami, organizację kalendarza oraz 
 ## 📫 Kontakt
 
 📧 **Email:** [sekretawiktor@gmail.com](mailto:sekretawiktor@gmail.com)
-💼 **LinkedIn:** [Mój profil LinkedIn]([TWOJ_LINKEDIN](https://www.linkedin.com/in/wiktor-sekreta-548972406/?isSelfProfile=true))
+💼 **LinkedIn:** [Mój profil LinkedIn](https://www.linkedin.com/in/wiktor-sekreta-548972406/)
 💻 **GitHub:** [@WiktorSekreta](https://github.com/WiktorSekreta)
 
 
